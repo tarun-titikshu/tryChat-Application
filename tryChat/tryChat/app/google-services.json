@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487851869714",
+    "project_id": "trychat-b9016",
+    "storage_bucket": "trychat-b9016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487851869714:android:85c81758ce3f5201b9facb",
+        "android_client_info": {
+          "package_name": "com.example.trychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487851869714-d1ca2n3at6tvkjug5m4e7t71176trhea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVFeLmslsytm8m7fqLdzplxQO0vZN6uTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487851869714-d1ca2n3at6tvkjug5m4e7t71176trhea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
